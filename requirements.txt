@@ -1,0 +1,9 @@
+asgiref==3.11.1 # ASGI support for Django
+Django==6.0.2
+djangorestframework==3.16.1
+djangorestframework_simplejwt==5.5.1
+PyJWT==2.11.0 
+python-dotenv==1.2.1 #for loading environmnt variables from .env file
+sqlparse==0.5.5 # for better SQL formating in DJango debug toolbar
+django-filter==24.1 # For filtering support inDRF
+django-cors-headers==4.4.0
