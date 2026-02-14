@@ -571,8 +571,9 @@ chmod +x setup.sh
 
 Or using Make:
 ```bash
-make up
+make everything
 ```
+Builds back and frontend.
 
 4. **Access the application:**
 - Frontend: http://localhost:5173
