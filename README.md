@@ -12,9 +12,9 @@ This is not a deployable project YET! It was made for learning and practice.
 
 ## 📋 Table of Contents
 
-- [Architecture Overview](#-architecture-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Architecture Overview](#architecture-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 - [System Architecture](#-system-architecture)
 - [API Documentation](#-api-documentation)
 - [Authentication Flow](#-authentication-flow)
@@ -22,12 +22,12 @@ This is not a deployable project YET! It was made for learning and practice.
 - [Frontend-Backend Communication](#-frontend-backend-communication)
 - [Setup & Installation](#-setup--installation)
 - [Project Structure](#-project-structure)
-- [Database Schema](#-database-schema)
+- [Database Schema](#database-schema)
 - [Testing](#-testing)
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```mermaid
 graph TB
@@ -59,7 +59,7 @@ graph TB
 
 ---
 
-## ✨ Features
+## Features✨ 
 
 ### Authentication & Authorization
 - ✅ User registration with password confirmation
@@ -95,7 +95,7 @@ graph TB
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack 
 
 ### Backend
 | Technology | Version | Purpose |
@@ -727,7 +727,7 @@ taskmanager/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ```mermaid
 erDiagram
