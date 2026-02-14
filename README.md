@@ -12,18 +12,18 @@ This is not a deployable project YET! It was made for learning and practice.
 
 ## 📋 Table of Contents
 
-- [Architecture Overview](#architecture-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [API Documentation](#api-documentation)
-- [Authentication Flow](#authentication-flow)
-- [Task Management Flow](#task-management-flow)
-- [Frontend-Backend Communication](#frontend-backend-communication)
-- [Setup & Installation](#setup--installation)
-- [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
-- [Testing](#testing)
+- [Architecture Overview](#-architecture-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [System Architecture](#-system-architecture)
+- [API Documentation](#-api-documentation)
+- [Authentication Flow](#-authentication-flow)
+- [Task Management Flow](#-task-management-flow)
+- [Frontend-Backend Communication](#-frontend-backend-communication)
+- [Setup & Installation](#-setup--installation)
+- [Project Structure](#-project-structure)
+- [Database Schema](#-database-schema)
+- [Testing](#-testing)
 
 ---
 
